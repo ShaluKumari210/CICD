@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_emce2_cicd_demoa.feature_052621</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>feature_052621</name>
+        <script><![CDATA[var feature_052621 = Class.create();
+feature_052621.prototype = {
+    initialize: function() {},
+
+    sayHello: function() {
+        return "Hello!";
+    },
+
+    type: 'feature_052621'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>1399433</sys_created_by>
+        <sys_created_on>2024-07-25 13:04:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>49470f26dbeb8650962e4a2813961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>feature_052621</sys_name>
+        <sys_package display_value="CICD DemoApp" source="x_emce2_cicd_demoa">9641836adbab8650962e4a28139619f1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CICD DemoApp">9641836adbab8650962e4a28139619f1</sys_scope>
+        <sys_update_name>sys_script_include_49470f26dbeb8650962e4a2813961947</sys_update_name>
+        <sys_updated_by>1399433</sys_updated_by>
+        <sys_updated_on>2024-07-25 13:04:35</sys_updated_on>
+    </sys_script_include>
+</record_update>
