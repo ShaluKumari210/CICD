@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d78b93f6db2b0a50962e4a28139619dd" extends="alm_asset" label="Hardware" max_length="40" name="x_emce2_cicd_demoa_hardware" type="collection"/>
+</database>
