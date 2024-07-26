@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>1399433</sys_created_by>
+        <sys_created_on>2024-07-26 09:11:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>69fb1ff6db2b0a50962e4a2813961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_emce2_cicd_demoa_hardware.x_emce2_cicd_demoa.hardware_user</sys_name>
+        <sys_package display_value="CICD DemoApp" source="x_emce2_cicd_demoa">9641836adbab8650962e4a28139619f1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CICD DemoApp">9641836adbab8650962e4a28139619f1</sys_scope>
+        <sys_security_acl display_value="x_emce2_cicd_demoa_hardware">edfbdbf6db2b0a50962e4a28139619fb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_69fb1ff6db2b0a50962e4a2813961900</sys_update_name>
+        <sys_updated_by>1399433</sys_updated_by>
+        <sys_updated_on>2024-07-26 09:11:45</sys_updated_on>
+        <sys_user_role display_value="x_emce2_cicd_demoa.hardware_user" name="x_emce2_cicd_demoa.hardware_user">90fbdbfedbe70a50962e4a2813961932</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

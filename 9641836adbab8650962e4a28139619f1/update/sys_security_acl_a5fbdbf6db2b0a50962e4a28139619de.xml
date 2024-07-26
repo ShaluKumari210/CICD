@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_emce2_cicd_demoa_hardware</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_emce2_cicd_demoa_hardware</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>1399433</sys_created_by>
+        <sys_created_on>2024-07-26 09:11:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a5fbdbf6db2b0a50962e4a28139619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_emce2_cicd_demoa_hardware</sys_name>
+        <sys_package display_value="CICD DemoApp" source="x_emce2_cicd_demoa">9641836adbab8650962e4a28139619f1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CICD DemoApp">9641836adbab8650962e4a28139619f1</sys_scope>
+        <sys_update_name>sys_security_acl_a5fbdbf6db2b0a50962e4a28139619de</sys_update_name>
+        <sys_updated_by>1399433</sys_updated_by>
+        <sys_updated_on>2024-07-26 09:11:45</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
