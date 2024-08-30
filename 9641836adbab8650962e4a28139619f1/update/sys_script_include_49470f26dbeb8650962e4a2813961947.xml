@@ -13,7 +13,7 @@ feature_052621.prototype = {
 
     sayHello: function() {
 		
-        return "Local changes from sand to test!";
+        return "Local changes from VSCode to Github with Vscode Branch!";
 		
     },
 
