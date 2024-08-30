@@ -12,8 +12,7 @@ feature_052621.prototype = {
     initialize: function() {},
 
     sayHello: function() {
-		
-        return "Local changes from VSCode to Github Repo!";
+        return "Local changes from VSCode to Github with Vscode Branch!";
 		
     },
 
